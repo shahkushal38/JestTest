@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "This is a test project",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-cli": "^29.7.0"
+  }
+}
